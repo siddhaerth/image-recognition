@@ -1,0 +1,26 @@
+body {
+background-color: yellow;
+
+}
+
+.heading
+{
+width: 50%;
+font-size:22px;
+}
+
+b{
+ color: blue;
+}
+
+#camera{
+    border: 3;
+    border-color: blue;
+    border-style: dashed; 
+    width: 350px;
+    height: 300px;
+}
+
+.Name_of_objects , result_object_name , result_object_accuracy{
+    color:blue;
+}
